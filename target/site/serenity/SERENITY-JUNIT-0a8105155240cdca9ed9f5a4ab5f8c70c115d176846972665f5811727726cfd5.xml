@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Linio" skipped="0" tests="1" time="3.0" timestamp="2022-05-18 11:30:58"><testcase name="consultar categoria en linio"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+co.com.tcs.tasks.Abrir.performAs(Abrir.java:19)&#13;
+co.com.tcs.stepdefinitions.LinioStepDefinition.que_camilo_quiere_buscar_en_linio(LinioStepDefinition.java:25)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
